@@ -1,7 +1,7 @@
 # DSA Learning Checklist
 
 ## ARRAYS (15)
-- [ ] Maximum and Minimum Element in an Array
+- [x] Maximum and Minimum Element in an Array
 - [ ] Reverse an Array
 - [ ] Contains Duplicate
 - [ ] Best Time to Buy and Sell Stock (1 transaction)
