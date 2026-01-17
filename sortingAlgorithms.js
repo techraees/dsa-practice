@@ -32,9 +32,23 @@ export const selectionSortAscending = (arr) => {
  * On First iteration largest element comes to end and on second the second largest element comes to the second and so on 
  */
 export const bubbleSortAlgo = (arr) => {
+  const n = arr.length
 
 
+  for (let i = 0; i < n - 1; i++) {
+    let swapped = false
+
+    for (let j = 0; j < n - 1 - i; j++) {
+      if (arr[j] > arr[j + 1]) {
+        let temp = arr[j]
+        arr[j] = arr[j + 1]
+        arr[j + 1] = temp
+        swapped = true
+      }
+    }
+
+    if (swapped == false) break
+
+  }
 };
 
-
-console.log(object)
