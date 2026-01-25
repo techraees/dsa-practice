@@ -4,18 +4,10 @@
 - [x] Maximum and Minimum Element in an Array
 - [ ] Reverse an Array
 - [ ] Contains Duplicate
-- [ ] Best Time to Buy and Sell Stock (1 transaction)
-- [ ] Best Time to Buy and Sell Stock (2 transactions)
 - [ ] Maximum Subarray Sum (Kadane’s Algorithm)
 - [ ] Kth Largest Element in an Array
 - [ ] Move Zeroes to End
-- [ ] Trapping Rain Water (simpler version)
-- [ ] Product of Array Except Self
-- [ ] 3Sum Problem
-- [ ] Container With Most Water
 - [ ] Find Pair with Given Sum
-- [ ] Rotate Array by K Positions
-- [ ] Merge Intervals
 
 ## STRINGS (12)
 - [ ] Valid Palindrome
